@@ -56,6 +56,8 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 ### HeyGen
 **Website:** [heygen.com](https://heygen.com/?sid=rewardful&via=chris-porter)
 
+![HeyGen](images/heygen.png)
+
 **Description:** Fast, simple, and incredibly powerful. HeyGen is an AI video generator that creates videos from text, images, or audio clips. It generates entire videos complete with voiceovers, translations, and styles that match your brand. The platform supports multiple languages and offers extensive customization options.
 
 **Why I Use It:** Producing high-quality videos that align with my brand can be time-consuming and expensive. HeyGen automates this entire process, allowing me to generate professional videos quickly and consistently. The brand-matching styles and translation features make it perfect for creating content for diverse audiences.
@@ -69,6 +71,8 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 ### Authflow
 **Website:** [authflow.ai](https://authflow.ai)
 
+![Authflow](images/authflow.png)
+
 **Description:** Authflow enables creators to monetize custom GPTs within ChatGPT by implementing secure paywalls. It provides a seamless way to offer premium AI-driven services and content to paying users, handling payment processing and access control securely.
 
 **Why I Use It:** As a developer of custom GPT models, monetizing my creations was challenging until I found Authflow. It provides a straightforward method to generate revenue from my AI applications by implementing secure paywalls, ensuring that premium content remains accessible only to paying subscribers.
@@ -80,6 +84,8 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 ### Printify
 **Website:** [printify.com](https://try.printify.com/mhf23rn5orq2)
 
+![Printify](images/printify.png)
+
 **Description:** Printify is a print-on-demand platform that allows users to create and sell custom products using AI. It offers 1000+ products, global delivery, and is 100% free to use. The platform handles production, fulfillment, and shipping, eliminating the need for inventory management.
 
 **Why I Use It:** Monetizing designs through merchandise is a great revenue stream, but managing inventory and fulfillment can be overwhelming. Printify simplifies this entire process by handling production and shipping, allowing me to focus on design and marketing. The AI tools help optimize product creation and the global delivery network ensures I can reach customers worldwide.
@@ -90,6 +96,8 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 
 ### EverBee
 **Website:** [everbee.io](https://www.everbee.io/?via=christopher-porter)
+
+![EverBee](images/everbee.png)
 
 **Description:** EverBee is a comprehensive AI-powered platform built for creators that provides everything you need to find and create winning products, market them, and sell them. It includes EverBee Research (the #1 product research tool), keyword research for SEO optimization, an AI-powered store builder, and email marketing tools. The platform analyzes data from over 180 million listings across Etsy and the internet to help you discover trending products, validate ideas before creation, and spot untapped niches with high demand and low competition.
 
@@ -104,6 +112,8 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 ### Lovable
 **Website:** [lovable.dev](https://lovable.dev/?via=chris-porter)
 
+![Lovable](images/lovable.png)
+
 **Description:** Lovable is a platform that allows users to create apps and websites by interacting with AI. It offers a chat-based interface where you can describe your ideas, and the AI assists in bringing them to life through conversational development, making coding accessible to everyone.
 
 **Why I Use It:** Building applications traditionally requires extensive coding knowledge and time. Lovable democratizes this process by enabling app creation through conversational AI, allowing me to prototype and develop ideas rapidly. It's like having a professional developer available 24/7 to help bring concepts to life.
@@ -114,6 +124,8 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 
 ### 10Web
 **Website:** [10web.io](https://10web.io/?_from=chris35)
+
+![10Web](images/10web.png)
 
 **Description:** 10Web is an AI-powered platform that enables users to create websites with ease. It offers automated website building, hosting, and optimization services, making professional web development accessible to everyone regardless of technical expertise.
 
@@ -128,6 +140,8 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 ### Make.com
 **Website:** [make.com](https://www.make.com/en/register?pc=viralwave)
 
+![Make.com](images/make.png)
+
 **Description:** Make.com (formerly Integromat) is a powerful platform that allows users to create workflow automations with ease. It connects various apps and services to automate tasks and processes without coding, offering a visual interface to design complex workflows.
 
 **Why I Use It:** Automating repetitive tasks saves countless hours and reduces errors. Make.com enables me to build custom workflows that integrate different tools and services seamlessly. Whether it's syncing data between platforms, automating social media posts, or processing leads, Make.com handles it all efficiently.
@@ -139,6 +153,8 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 ### Apify
 **Website:** [apify.com](https://www.apify.com?fpr=p2hrc6)
 
+![Apify](images/apify.png)
+
 **Description:** Apify is a full-stack web scraping and data extraction platform that provides a huge network of APIs and ready-made web scrapers for popular websites. It allows users to collect real-time web data, automate data extraction, and build custom serverless programs called Actors.
 
 **Why I Use It:** Accessing structured data from the web is crucial for many projects, from market research to AI training. Apify provides a robust and scalable solution to extract and process data from any website efficiently. The vast library of ready-made scrapers saves me significant development time.
@@ -149,6 +165,8 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 
 ### RSS.app
 **Website:** [rss.app](https://rss.app?fpr=chris90)
+
+![RSS.app](images/rss-app.png)
 
 **Description:** RSS.app is a tool that allows users to generate RSS feeds from various sources, enabling content aggregation and distribution. It can create feeds from websites, social media platforms, and other content sources, making it easy to stay updated and share content.
 
@@ -163,6 +181,8 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 ### Creator Unlock
 **Website:** [creatorunlock.com](https://creatorunlock.com?fpr=chris95)
 
+![Creator Unlock](images/creator-unlock.png)
+
 **Description:** Creator Unlock is an AI-powered YouTube strategy platform designed to help creators grow their channels. It provides insights, analytics, content recommendations, and optimization tools tailored to individual channels, helping creators understand what works and what doesn't.
 
 **Why I Use It:** Growing a YouTube channel requires strategic planning and data-driven decisions. Creator Unlock offers AI-powered insights and personalized recommendations that help me optimize content, understand audience behavior, and enhance channel performance. It's like having a YouTube strategist analyzing my channel 24/7.
@@ -176,6 +196,8 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 ### Eleven Labs
 **Website:** [elevenlabs.io](https://try.elevenlabs.io/n64zmcqt1hc7)
 
+![Eleven Labs](images/eleven-labs.png)
+
 **Description:** Eleven Labs is an AI text-to-voice platform that provides the most realistic voice AI available. It generates natural-sounding speech from text with incredible quality, supporting multiple languages and offering extensive voice customization options.
 
 **Why I Use It:** Adding professional voiceovers to content significantly enhances engagement, but hiring voice actors can be expensive and time-consuming. Eleven Labs provides high-quality, realistic AI-generated voices that bring my projects to life. The natural-sounding voices are virtually indistinguishable from human recordings.
@@ -186,6 +208,8 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 
 ### CallHippo
 **Website:** [callhippo.com](https://callhippo.com?fp_ref=christopher56)
+
+![CallHippo](images/callhippo.png)
 
 **Description:** CallHippo is an AI-driven communication automation platform offering cloud-based phone systems, omnichannel inboxes, WhatsApp Business API integration, and AI-powered agents. It streamlines business communications through intelligent automation and analytics.
 
