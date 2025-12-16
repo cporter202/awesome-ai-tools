@@ -207,6 +207,6 @@ This is a personal list, but if you have suggestions for tools that align with t
 
 ---
 
-**Last Updated:** December 2024
+**Last Updated:** December 2025
 
 **Note:** All descriptions are based on personal experience and current information. Features and pricing may change. Please visit each tool's website for the most up-to-date information.
