@@ -1,6 +1,6 @@
 # awesome-ai-tools
 
-A curated list of AI tools I personally use to build, automate, and monetize projects — from content and video automation to APIs, websites, workflows, and AI voice. ⭐⭐⭐⭐⭐
+A curated list of AI tools I personally use to build, automate, and monetize projects — from content and video automation to e-commerce product research, APIs, websites, workflows, and AI voice. ⭐⭐⭐⭐⭐
 
 <div align="center">
 
@@ -74,6 +74,17 @@ Your support keeps me creating valuable repos and keeps everything up to date! �
 **Why I Use It:** Monetizing designs through merchandise is a great revenue stream, but managing inventory and fulfillment can be overwhelming. Printify simplifies this entire process by handling production and shipping, allowing me to focus on design and marketing. The AI tools help optimize product creation and the global delivery network ensures I can reach customers worldwide.
 
 **How It Can Help You:** If you're looking to start a print-on-demand business or expand your product offerings without managing inventory, Printify provides an accessible and efficient solution. Perfect for designers, content creators, and entrepreneurs who want to monetize their designs without upfront costs or logistical complexity.
+
+---
+
+### EverBee
+**Website:** [everbee.io](https://www.everbee.io/?via=christopher-porter)
+
+**Description:** EverBee is a comprehensive AI-powered platform built for creators that provides everything you need to find and create winning products, market them, and sell them. It includes EverBee Research (the #1 product research tool), keyword research for SEO optimization, an AI-powered store builder, and email marketing tools. The platform analyzes data from over 180 million listings across Etsy and the internet to help you discover trending products, validate ideas before creation, and spot untapped niches with high demand and low competition.
+
+**Why I Use It:** EverBee has been instrumental in helping me find winning products on Etsy and grow a massive Etsy store. Instead of guessing what products will sell, I can see real sales data and trending products before investing time and resources. The keyword research tools help me optimize my listings for better visibility, and the platform's insights have saved me countless hours of manual research. It's completely free to use (no credit card required) and trusted by over 1 million creators globally.
+
+**How It Can Help You:** If you're selling on Etsy, Shopify, Amazon, or any other platform, EverBee provides data-driven insights to help you discover profitable products and optimize your listings. Perfect for print-on-demand sellers, handmade craft creators, digital product creators, and anyone looking to build a successful e-commerce business. The platform helps you launch faster with proven product insights rather than guesswork, making it invaluable for both new and experienced sellers.
 
 ---
 
