@@ -2,6 +2,16 @@
 
 A curated list of AI tools I personally use to build, automate, and monetize projects — from content and video automation to APIs, websites, workflows, and AI voice. ⭐⭐⭐⭐⭐
 
+<div align="center">
+
+**If this repo has helped you, consider buying me a coffee! ☕**
+
+This keeps me creating valuable repos and keeps everything up to date! 🚀
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/viralwavestudio)
+
+</div>
+
 ---
 
 ## 📱 Content & Video Automation
