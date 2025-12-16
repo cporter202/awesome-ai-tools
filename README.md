@@ -31,6 +31,17 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 
 ---
 
+### Postiz
+**Website:** [postiz.com](https://postiz.com/?ref=chris34)
+
+**Description:** Postiz is an agentic AI-powered social media scheduling and management tool that offers everything you need to manage social media posts, build an audience, capture leads, and grow your business. It features an AI Content Assistant that performs tasks for you, a Canva-like design tool with AI image generation, seamless cross-posting across 20+ platforms (Facebook, Instagram, TikTok, YouTube, LinkedIn, Reddit, Threads, Pinterest, Discord, Slack, and more), team collaboration features, auto actions (auto-post, auto-like, auto-comment), comprehensive analytics, and powerful automation via Public API, n8n, Make.com, or Zapier. Postiz is also open-source and can be self-hosted for maximum privacy and control.
+
+**Why I Use It:** Postiz is my go-to all-in-one social media management solution. The AI Content Assistant saves me hours by handling content creation tasks, and the built-in design tool eliminates the need for external graphic design software. Being able to cross-post to multiple platforms from one dashboard is incredibly efficient, and the automation features integrate seamlessly with my existing workflows. The fact that it's open-source and self-hostable gives me peace of mind about data privacy and control.
+
+**How It Can Help You:** Whether you're a creator managing personal brands, a business expanding reach, or an agency handling multiple client accounts, Postiz provides a comprehensive solution for social media management. The AI-powered features streamline content creation, the wide platform support ensures you can reach audiences everywhere, and the automation capabilities save significant time. Perfect for anyone looking to grow their social media presence efficiently while maintaining quality and consistency across all channels.
+
+---
+
 ### Syllaby
 **Website:** [syllaby.io](https://syllaby.io/?via=chris56)
 
