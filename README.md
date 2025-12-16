@@ -56,7 +56,7 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 ### HeyGen
 **Website:** [heygen.com](https://heygen.com/?sid=rewardful&via=chris-porter)
 
-![HeyGen](images/heygen.png)
+[![HeyGen](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904559489-Screenshot%202025-12-16%20104259.png?alt=media&token=ce6983e0-c99e-4d4d-b21f-6bae4023dc09)](https://heygen.com/?sid=rewardful&via=chris-porter)
 
 **Description:** Fast, simple, and incredibly powerful. HeyGen is an AI video generator that creates videos from text, images, or audio clips. It generates entire videos complete with voiceovers, translations, and styles that match your brand. The platform supports multiple languages and offers extensive customization options.
 
@@ -71,7 +71,7 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 ### Authflow
 **Website:** [authflow.ai](https://authflow.ai)
 
-![Authflow](images/authflow.png)
+[![Authflow](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904558981-Screenshot%202025-12-16%20104315.png?alt=media&token=9d37f2f2-33b3-48f6-ade7-85806df610cb)](https://authflow.ai)
 
 **Description:** Authflow enables creators to monetize custom GPTs within ChatGPT by implementing secure paywalls. It provides a seamless way to offer premium AI-driven services and content to paying users, handling payment processing and access control securely.
 
@@ -84,7 +84,7 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 ### Printify
 **Website:** [printify.com](https://try.printify.com/mhf23rn5orq2)
 
-![Printify](images/printify.png)
+[![Printify](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904558323-Screenshot%202025-12-16%20104331.png?alt=media&token=0f61ba05-79e6-478a-8bc1-048b3f7eb7eb)](https://try.printify.com/mhf23rn5orq2)
 
 **Description:** Printify is a print-on-demand platform that allows users to create and sell custom products using AI. It offers 1000+ products, global delivery, and is 100% free to use. The platform handles production, fulfillment, and shipping, eliminating the need for inventory management.
 
@@ -97,7 +97,7 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 ### EverBee
 **Website:** [everbee.io](https://www.everbee.io/?via=christopher-porter)
 
-![EverBee](images/everbee.png)
+[![EverBee](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904557411-Screenshot%202025-12-16%20104348.png?alt=media&token=e9978398-618f-442e-a8e9-2ea3844f43a1)](https://www.everbee.io/?via=christopher-porter)
 
 **Description:** EverBee is a comprehensive AI-powered platform built for creators that provides everything you need to find and create winning products, market them, and sell them. It includes EverBee Research (the #1 product research tool), keyword research for SEO optimization, an AI-powered store builder, and email marketing tools. The platform analyzes data from over 180 million listings across Etsy and the internet to help you discover trending products, validate ideas before creation, and spot untapped niches with high demand and low competition.
 
@@ -112,7 +112,7 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 ### Lovable
 **Website:** [lovable.dev](https://lovable.dev/?via=chris-porter)
 
-![Lovable](images/lovable.png)
+[![Lovable](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904556570-Screenshot%202025-12-16%20104406.png?alt=media&token=615f8140-6c82-4649-abff-664a51151e23)](https://lovable.dev/?via=chris-porter)
 
 **Description:** Lovable is a platform that allows users to create apps and websites by interacting with AI. It offers a chat-based interface where you can describe your ideas, and the AI assists in bringing them to life through conversational development, making coding accessible to everyone.
 
@@ -125,7 +125,7 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 ### 10Web
 **Website:** [10web.io](https://10web.io/?_from=chris35)
 
-![10Web](images/10web.png)
+[![10Web](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904556099-Screenshot%202025-12-16%20104424.png?alt=media&token=0fa1e136-f7e9-476a-8cc6-d2bce30850dd)](https://10web.io/?_from=chris35)
 
 **Description:** 10Web is an AI-powered platform that enables users to create websites with ease. It offers automated website building, hosting, and optimization services, making professional web development accessible to everyone regardless of technical expertise.
 
@@ -140,7 +140,7 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 ### Make.com
 **Website:** [make.com](https://www.make.com/en/register?pc=viralwave)
 
-![Make.com](images/make.png)
+[![Make.com](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904555546-Screenshot%202025-12-16%20104438.png?alt=media&token=956d8389-c821-4933-bce0-5a317b898f88)](https://www.make.com/en/register?pc=viralwave)
 
 **Description:** Make.com (formerly Integromat) is a powerful platform that allows users to create workflow automations with ease. It connects various apps and services to automate tasks and processes without coding, offering a visual interface to design complex workflows.
 
@@ -153,7 +153,7 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 ### Apify
 **Website:** [apify.com](https://www.apify.com?fpr=p2hrc6)
 
-![Apify](images/apify.png)
+[![Apify](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904554941-Screenshot%202025-12-16%20104452.png?alt=media&token=47198ab6-2575-428a-bcf5-59e1dd558987)](https://www.apify.com?fpr=p2hrc6)
 
 **Description:** Apify is a full-stack web scraping and data extraction platform that provides a huge network of APIs and ready-made web scrapers for popular websites. It allows users to collect real-time web data, automate data extraction, and build custom serverless programs called Actors.
 
@@ -166,7 +166,7 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 ### RSS.app
 **Website:** [rss.app](https://rss.app?fpr=chris90)
 
-![RSS.app](images/rss-app.png)
+[![RSS.app](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904554282-Screenshot%202025-12-16%20104503.png?alt=media&token=86138784-e1f1-43b9-aff3-858cfbade9ff)](https://rss.app?fpr=chris90)
 
 **Description:** RSS.app is a tool that allows users to generate RSS feeds from various sources, enabling content aggregation and distribution. It can create feeds from websites, social media platforms, and other content sources, making it easy to stay updated and share content.
 
@@ -181,7 +181,7 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 ### Creator Unlock
 **Website:** [creatorunlock.com](https://creatorunlock.com?fpr=chris95)
 
-![Creator Unlock](images/creator-unlock.png)
+[![Creator Unlock](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904553190-Screenshot%202025-12-16%20104515.png?alt=media&token=69d7b941-bfcf-4add-b5e6-56e2f9e88550)](https://creatorunlock.com?fpr=chris95)
 
 **Description:** Creator Unlock is an AI-powered YouTube strategy platform designed to help creators grow their channels. It provides insights, analytics, content recommendations, and optimization tools tailored to individual channels, helping creators understand what works and what doesn't.
 
@@ -196,7 +196,7 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 ### Eleven Labs
 **Website:** [elevenlabs.io](https://try.elevenlabs.io/n64zmcqt1hc7)
 
-![Eleven Labs](images/eleven-labs.png)
+[![Eleven Labs](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904552536-Screenshot%202025-12-16%20104529.png?alt=media&token=87250e70-604a-4bd1-a183-c14d86b737f2)](https://try.elevenlabs.io/n64zmcqt1hc7)
 
 **Description:** Eleven Labs is an AI text-to-voice platform that provides the most realistic voice AI available. It generates natural-sounding speech from text with incredible quality, supporting multiple languages and offering extensive voice customization options.
 
@@ -209,7 +209,7 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 ### CallHippo
 **Website:** [callhippo.com](https://callhippo.com?fp_ref=christopher56)
 
-![CallHippo](images/callhippo.png)
+[![CallHippo](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904552027-Screenshot%202025-12-16%20104542.png?alt=media&token=d7f84ef2-2ff9-450a-bff4-297539c5a768)](https://callhippo.com?fp_ref=christopher56)
 
 **Description:** CallHippo is an AI-driven communication automation platform offering cloud-based phone systems, omnichannel inboxes, WhatsApp Business API integration, and AI-powered agents. It streamlines business communications through intelligent automation and analytics.
 
