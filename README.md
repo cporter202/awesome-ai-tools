@@ -188,6 +188,17 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 
 ---
 
+### Taskade
+**Website:** [taskade.com](https://taskade.com)
+
+**Description:** Taskade is an AI-native workspace platform (YC S19) that lets you build custom AI apps, deploy autonomous AI agents, and automate workflows with 100+ integrations. It combines project management, real-time collaboration, and AI-powered task automation in one unified platform. Taskade also offers a public API and MCP server for developers to extend and integrate with their own tools.
+
+**Why I Use It:** Taskade replaces multiple tools by combining AI agents, project management, and workflow automation in a single platform. The ability to deploy custom AI agents that work across my projects saves me hours of manual work, and the 100+ integrations connect seamlessly with the rest of my tech stack. The developer API makes it easy to build custom automations tailored to my specific needs.
+
+**How It Can Help You:** If you're looking to consolidate your productivity tools and supercharge your workflows with AI, Taskade provides an all-in-one solution. Perfect for teams and individuals who want to automate repetitive tasks, manage projects with AI assistance, and build custom AI-powered workflows without switching between multiple apps.
+
+---
+
 ## ðŸŽ¬ YouTube & Content Growth
 
 ### Creator Unlock
