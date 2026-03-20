@@ -231,6 +231,19 @@ Your support keeps me creating valuable repos and keeps everything up to date! �
 
 ---
 
+## 🎙️ AI Transcription
+
+### Vocova
+**Website:** [vocova.app](https://vocova.app)
+
+**Description:** Vocova is an AI-powered transcription tool built for podcast creators and anyone working with long-form audio. Paste a URL from Spotify, Apple Podcasts, YouTube, or 1000+ other platforms, and get accurate speaker-labeled transcripts in minutes. It supports 100+ languages, offers bilingual export for multilingual episodes, and handles multi-speaker conversations with automatic speaker diarization.
+
+**Why I Use It:** Transcribing podcast episodes and long interviews used to take hours of manual work or expensive human transcription services. Vocova automates the entire process — I just paste a podcast URL and get a clean, speaker-labeled transcript ready for repurposing. The bilingual export is especially useful when I need transcripts in multiple languages for international audiences.
+
+**How It Can Help You:** If you produce podcasts, record interviews, or work with any kind of long-form audio content, Vocova saves you significant time and money on transcription. It's perfect for podcasters who want to create show notes, blog posts, or social media content from their episodes, as well as journalists, researchers, and content creators who need accurate transcripts from audio and video sources across the web.
+
+---
+
 ## 📝 License
 
 This repository is a personal curation of tools I use. All tools mentioned are owned by their respective companies. Please refer to each tool's website for their terms of service and pricing information.
