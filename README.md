@@ -205,6 +205,17 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 
 ## ðŸŽ¤ AI Voice & Communication
 
+### voicetoinstrument.com
+**Website:** [voicetoinstrument.com](https://voicetoinstrument.com)
+
+**Description:** Convert voice to instrument tracks using AI. Generate instrumental tracks from vocal recordings for music production and audio content creation.
+
+**Why I Use It:** Creating instrumentals traditionally requires musical skill and expensive production. Voicetoinstrument.com leverages AI to automatically convert voice recordings into instrument tracks, making music production accessible to anyone with a voice recording.
+
+**How It Can Help You:** If you want to create instrumental versions of your vocal recordings, generate music tracks for content, or experiment with voice-to-instrument conversion, this tool provides a fast and accessible solution.
+
+---
+
 ### Eleven Labs
 **Website:** [elevenlabs.io](https://try.elevenlabs.io/n64zmcqt1hc7)
 
