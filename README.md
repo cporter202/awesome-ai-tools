@@ -218,6 +218,17 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 
 ---
 
+### VoiceToInstrument
+**Website:** [voicetoinstrument.com](https://voicetoinstrument.com)
+
+**Description:** VoiceToInstrument is an AI-powered tool that converts voice recordings into instrumental tracks. It separates vocals from any audio and converts them to MIDI or instrument versions, enabling musicians and producers to transform vocal ideas into full productions.
+
+**Why I Use It:** As a creator, I often have vocal melodies or hums that I want to develop into full instrument arrangements. VoiceToInstrument lets me quickly generate instrumental versions from voice recordings, saving significant time in the music production workflow.
+
+**How It Can Help You:** If you're a musician, producer, or content creator looking to transform vocal recordings into instrumental tracks, VoiceToInstrument offers a fast and intuitive solution. Perfect for sketching ideas, creating demos, or exploring different instrument arrangements from voice recordings.
+
+---
+
 ### CallHippo
 **Website:** [callhippo.com](https://callhippo.com?fp_ref=christopher56)
 
