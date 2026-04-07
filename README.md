@@ -231,6 +231,17 @@ Your support keeps me creating valuable repos and keeps everything up to date! �
 
 ---
 
+## 🤖 AI Skills & Personas Marketplace
+
+### RemoteOpenClaw
+**Website:** [remoteopenclaw.com](https://remoteopenclaw.com)
+
+**Description:** RemoteOpenClaw is an open marketplace for discovering, sharing, and distributing AI skills and personas built on the open-source [OpenClaw](https://github.com/openclaw) standard. It enables developers and AI enthusiasts to find community-built AI agent skills and personas, share their own creations, and buy or sell premium AI capabilities.
+
+**How It Can Help You:** If you are building AI agents and need pre-built skills or personas, RemoteOpenClaw provides a centralized marketplace to discover and distribute AI capabilities. Perfect for developers looking to extend their AI agents with community-built skills or monetize their own AI creations.
+
+---
+
 ## 📝 License
 
 This repository is a personal curation of tools I use. All tools mentioned are owned by their respective companies. Please refer to each tool's website for their terms of service and pricing information.
