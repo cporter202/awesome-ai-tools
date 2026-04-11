@@ -119,6 +119,21 @@ Your support keeps me creating valuable repos and keeps everything up to date! �
 
 ---
 
+## 🔍 SEO & Content Optimization
+
+### TopRank
+**Website:** [github.com/nowork-studio/toprank](https://github.com/nowork-studio/toprank)
+
+[![TopRank](https://opengraph.githubassets.com/1/nowork-studio/toprank)](https://github.com/nowork-studio/toprank)
+
+**Description:** TopRank is an open-source Claude Code plugin and skill set built for SEO, Google Ads, content writing, and CMS optimization workflows. It combines reusable skills, repo-aware guidance, and plugin-powered helpers so marketers and developers can audit pages, generate content, improve metadata, and streamline search-growth work inside their coding workflow.
+
+**Why It Fits This List:** This repo already highlights AI tools that help build, automate, and monetize projects. TopRank fits that same theme from the organic-growth side by helping teams automate SEO analysis, content operations, and site optimization work that usually sits between marketing strategy and implementation.
+
+**How It Can Help You:** If you manage search traffic, content production, or website optimization, TopRank gives you practical workflows for tasks like technical SEO analysis, copy drafting, structured-content improvements, and CMS updates. It is especially useful if you want an open-source tool that bridges AI-assisted marketing work with the codebase changes needed to ship those improvements.
+
+---
+
 ## 🚀 Development & Website Creation
 
 ### Lovable
