@@ -121,6 +121,17 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 
 ## ðŸš€ Development & Website Creation
 
+### OpenMagic
+**Website:** [OpenMagic](https://github.com/Kalmuraee/OpenMagic)
+
+**Description:** OpenMagic is an AI-powered coding toolbar for any web app that captures element context, previews diffs, and applies approved changes through a reverse proxy.
+
+**Why I Use It:** It gives me a fast way to inspect and refine web app flows without leaving the browser.
+
+**How It Can Help You:** Great for product teams, founders, and devs who need quick, contextual changes inside live web apps.
+
+---
+
 ### Lovable
 **Website:** [lovable.dev](https://lovable.dev/?via=chris-porter)
 
