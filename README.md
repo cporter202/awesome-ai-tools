@@ -26,6 +26,17 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 
 ## ðŸ“± Content & Video Automation
 
+### OpenMagic
+**Website:** [OpenMagic](https://github.com/Kalmuraee/OpenMagic)
+
+**Description:** OpenMagic is an AI-powered coding toolbar for any web app that captures element context, previews diffs, and applies approved changes through a reverse proxy.
+
+**Why I Use It:** Useful when a browser-based workflow needs live context on the page itself.
+
+**How It Can Help You:** Great for creators and builders who want quick browser-side edits and automation.
+
+---
+
 ### ViralWave Studio
 **Website:** [viralwavestudio.com](https://viralwavestudio.com)
 
