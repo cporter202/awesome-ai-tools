@@ -149,6 +149,17 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 
 ## ðŸ”§ Automation & Integration
 
+### OpenMagic
+**Website:** [OpenMagic](https://github.com/Kalmuraee/OpenMagic)
+
+**Description:** OpenMagic is an AI-powered coding toolbar for any web app that captures element context, previews diffs, and applies approved changes through a reverse proxy.
+
+**Why I Use It:** It helps me inspect workflows inside real apps without context switching.
+
+**How It Can Help You:** Useful for automation-heavy teams that need browser-side coding context.
+
+---
+
 ### Make.com
 **Website:** [make.com](https://www.make.com/en/register?pc=viralwave)
 
