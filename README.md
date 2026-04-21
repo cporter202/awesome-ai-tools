@@ -76,6 +76,17 @@ Your support keeps me creating valuable repos and keeps everything up to date! �
 
 **How It Can Help You:** If you need to create professional videos for marketing, education, or entertainment without extensive resources or video production expertise, HeyGen offers a fast and simple solution. It's particularly useful for businesses that need to scale video content production or create multilingual content.
 
+### MindMap AI
+**Website:** [mindmapai.app](https://mindmapai.app/)
+
+[![MindMap AI](https://mindmapai.app/static/img/blog/blog112/img1.png)
+
+**Description:** MindMap AI is an AI-powered mind mapping tool that transforms text, PDFs, videos, audio, images, markdown, CSV, and research into structured visual mind maps for idea generation, content planning, and knowledge organization.
+
+**Why I Use It:** It helps me quickly turn scattered notes, research, and raw ideas into clear visual structures. Instead of manually organizing content plans, I can generate mind maps instantly and use them to shape blog outlines, campaign ideas, and content workflows.
+
+**How It Can Help You:** If you create content, manage research, or need a faster way to organize complex information, MindMap AI helps you structure ideas visually and move from messy input to actionable plans. It’s especially useful for marketers, creators, students, and teams that want to brainstorm and plan more efficiently.
+
 ---
 
 ## 💰 Monetization Tools
