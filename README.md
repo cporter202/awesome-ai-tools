@@ -205,6 +205,17 @@ Your support keeps me creating valuable repos and keeps everything up to date! �
 
 ## 🎤 AI Voice & Communication
 
+### AnveVoice
+**Website:** [anvevoice.app](https://anvevoice.app)
+
+**Description:** AnveVoice is a voice AI agent for websites with agentic DOM actions, MCP support, 50+ languages, and <700ms latency. It lets visitors interact with your site by voice — the agent understands intent and autonomously clicks buttons, fills forms, and navigates pages on their behalf.
+
+**Why I Use It:** Adding voice interaction to a website usually means stitching together STT, LLM, TTS, and custom DOM automation. AnveVoice bundles all of that into a drop-in widget with a free tier, so I can offer a natural-language voice interface without building the plumbing myself.
+
+**How It Can Help You:** If you run a website and want to add a voice-first interface — for support, onboarding, lead capture, or accessibility — AnveVoice gives you an agent that can actually take actions on the page, not just answer questions. Great for SaaS products, e-commerce, and any site where multilingual voice support would reduce friction.
+
+---
+
 ### Eleven Labs
 **Website:** [elevenlabs.io](https://try.elevenlabs.io/n64zmcqt1hc7)
 
