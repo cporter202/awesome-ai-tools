@@ -201,6 +201,15 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 
 **How It Can Help You:** If you're aiming to expand your YouTube presence and grow your audience, Creator Unlock provides data-driven strategies and tools to enhance your content performance. It's perfect for content creators who want to understand their audience better and optimize their content strategy for maximum growth.
 
+### Cyber Collector
+**Website:** [cybercollector.hitkey.io](https://cybercollector.hitkey.io)
+
+**Description:** Cyber Collector is a free Telegram bot for downloading videos from TikTok (no watermark), Instagram Reels & Stories, YouTube + Shorts, X/Twitter, and Facebook. Simply send the video link to the bot and get the file instantly. No signup required, no ads.
+
+**Why It's Useful:** Content creators and researchers often need to save reference videos from social platforms for offline use, inspiration boards, or repurposing. Cyber Collector handles all major platforms in one bot, making it a handy utility for any video content workflow.
+
+**How to Use It:** Start the bot on Telegram at [@cybercollectorbot](https://t.me/cybercollectorbot), send a video URL, and receive the downloaded file directly in chat.
+
 ---
 
 ## ðŸŽ¤ AI Voice & Communication
