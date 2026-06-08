@@ -26,6 +26,8 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 
 ## ðŸ“± Content & Video Automation
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Solana-native x402 MCP server for AI agent trust scoring. Free: `score_agent`, `preflight_check`. Paid: signed trust receipt via HTTP 402 + USDC. Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ### ViralWave Studio
 **Website:** [viralwavestudio.com](https://viralwavestudio.com)
 
