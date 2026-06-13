@@ -190,6 +190,17 @@ Your support keeps me creating valuable repos and keeps everything up to date! �
 
 ## 🎬 YouTube & Content Growth
 
+### CreatorSkills
+**Website:** [creatorskills.co](https://creatorskills.co)
+
+**Description:** CreatorSkills is a marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
+
+**Why It Stands Out:** Instead of using generic AI prompts, CreatorSkills offers structured skill packs — each one a purpose-built instruction set trained for specific creator workflows like scripting YouTube videos, writing sponsor pitches, or analyzing audience retention. Drop them directly into Claude or ChatGPT and get professional-grade output immediately.
+
+**How It Can Help You:** If you're a content creator looking to level up your AI-assisted workflow without reinventing the wheel, CreatorSkills gives you expert-crafted prompts for the exact tasks creators face daily — from scripting to sponsorship outreach to channel growth strategy.
+
+---
+
 ### Creator Unlock
 **Website:** [creatorunlock.com](https://creatorunlock.com?fpr=chris95)
 
