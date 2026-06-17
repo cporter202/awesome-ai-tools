@@ -106,6 +106,17 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 
 ---
 
+### igly.ai
+**Website:** [igly.ai](https://igly.ai)
+
+**Description:** igly.ai is an AI image editing platform for background removal, inpainting, upscaling, and generative fill. It helps creators and e-commerce sellers clean up product photos, replace backgrounds, and produce polished marketing images without a full design workflow. [Demo video](https://www.youtube.com/watch?v=HB2E1WZ12is).
+
+**Why I Use It:** Product and social images often need quick cleanup before they are ready to publish. igly.ai keeps common edits like removing backgrounds, fixing objects, and improving resolution in one focused workflow.
+
+**How It Can Help You:** If you sell products online, make ads, or need fast visual assets, igly.ai can turn rough photos into cleaner product shots and campaign-ready images without switching between several editing tools.
+
+---
+
 ### EverBee
 **Website:** [everbee.io](https://www.everbee.io/?via=christopher-porter)
 
