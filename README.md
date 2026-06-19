@@ -44,6 +44,13 @@ Your support keeps me creating valuable repos and keeps everything up to date! ð
 
 [![Postiz](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904952187-Screenshot%202025-12-16%20120904.png?alt=media&token=3ea09316-1202-408a-ba3f-ac39dcba5d28)](https://postiz.com/?ref=chris34)
 
+---
+
+### ImagineClip
+**Website:** [imagineclip.com](https://imagineclip.com)
+
+**Description:** ImagineClip is an AI video generator for fun clips, avatar videos, stylized scenes, and shareable social content made from prompts, images, and effects.
+
 **Description:** Postiz is an agentic AI-powered social media scheduling and management tool that offers everything you need to manage social media posts, build an audience, capture leads, and grow your business. It features an AI Content Assistant that performs tasks for you, a Canva-like design tool with AI image generation, seamless cross-posting across 20+ platforms (Facebook, Instagram, TikTok, YouTube, LinkedIn, Reddit, Threads, Pinterest, Discord, Slack, and more), team collaboration features, auto actions (auto-post, auto-like, auto-comment), comprehensive analytics, and powerful automation via Public API, n8n, Make.com, or Zapier. Postiz is also open-source and can be self-hosted for maximum privacy and control.
 
 **Why I Use It:** Postiz is my go-to all-in-one social media management solution. The AI Content Assistant saves me hours by handling content creation tasks, and the built-in design tool eliminates the need for external graphic design software. Being able to cross-post to multiple platforms from one dashboard is incredibly efficient, and the automation features integrate seamlessly with my existing workflows. The fact that it's open-source and self-hostable gives me peace of mind about data privacy and control.
