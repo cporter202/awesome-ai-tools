@@ -2,6 +2,8 @@
 
 # awesome-ai-tools
 
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 ![Awesome AI Tools](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904550708-Generated%20Image%20December%2016%2C%202025%20-%2010_40AM%20(1).jpeg?alt=media&token=dacc5a23-c841-48a4-92b6-57c293267885)
 
 A curated list of AI tools I personally use to build, automate, and monetize projects — from content and video automation to e-commerce product research, APIs, websites, workflows, and AI voice. ⭐⭐⭐⭐⭐
