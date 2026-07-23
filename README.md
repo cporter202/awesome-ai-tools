@@ -231,6 +231,15 @@ Your support keeps me creating valuable repos and keeps everything up to date! 
 
 ---
 
+### CharaVox
+**Website:** [charavox.com](https://charavox.com)
+
+**Description:** CharaVox is an AI voice generation platform that creates character voices, clones any voice, and produces studio-quality audio. It supports 6 languages (English, Chinese, Japanese, Korean, Spanish, Portuguese) with role-specific voice pages for support agents, podcast hosts, sales reps, and game characters, plus a community voice library and sound effects catalog. Powered by the open-source VoxCPM model.
+
+**How It Can Help You:** If you need conversion-ready AI voice pages for support, sales, podcasting, or content creation workflows, CharaVox routes visitors directly into a voice generator with browseable role-specific voices across multiple languages. Useful for creators, support teams, and sales teams who want pre-built voice personas instead of starting from scratch.
+
+---
+
 ## üìù License
 
 This repository is a personal curation of tools I use. All tools mentioned are owned by their respective companies. Please refer to each tool's website for their terms of service and pricing information.
