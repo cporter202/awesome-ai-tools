@@ -87,6 +87,8 @@
 </tr>
 </table>
 
+- [Eimu](https://eimu.art) - Online GPT Image 2 & Nano Banana Pro image generator, no API key or relay setup required.
+
 <p align="right"><a href="#awesome-ai-tools">Back to top ↑</a></p>
 
 ## 💰 Monetization & E-commerce
