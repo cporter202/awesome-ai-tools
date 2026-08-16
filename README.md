@@ -9,7 +9,7 @@
 <p>
   <a href="https://github.com/cporter202/awesome-ai-tools/stargazers"><img src="https://img.shields.io/github/stars/cporter202/awesome-ai-tools?style=for-the-badge&color=7c3aed" alt="GitHub stars"></a>
   <a href="https://github.com/cporter202/awesome-ai-tools/network/members"><img src="https://img.shields.io/github/forks/cporter202/awesome-ai-tools?style=for-the-badge&color=2563eb" alt="GitHub forks"></a>
-  <img src="https://img.shields.io/badge/hand--picked_tools-16-0f766e?style=for-the-badge" alt="16 hand-picked tools">
+  <img src="https://img.shields.io/badge/hand--picked_tools-17-0f766e?style=for-the-badge" alt="17 hand-picked tools">
   <a href="https://github.com/cporter202/awesome-ai-tools/commits/main"><img src="https://img.shields.io/github/last-commit/cporter202/awesome-ai-tools?style=for-the-badge&color=ea580c" alt="Last commit"></a>
 </p>
 
@@ -216,6 +216,22 @@
   <p><strong>Risk note:</strong> Market signals and sizing examples are not financial advice, and trading can result in losses.</p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+  <h3 align="center"><a href="https://ideahunter.today/">IdeaHunter</a></h3>
+  <p align="center"><a href="https://ideahunter.today/"><img src="https://ideahunter.today/og-default.png" alt="IdeaHunter startup idea research" width="100%"></a></p>
+  <p align="center"><strong>Startup research · Demand signals · MVP validation</strong></p>
+  <p>Helps solo founders research demand-backed app and micro-SaaS ideas using public market signals, buyer pain, MVP scope, and monetization paths.</p>
+  <p><strong>Why it stands out:</strong> It turns idea selection into an evidence-led research workflow before builders commit development time.</p>
+  <p align="center"><a href="https://ideahunter.today/"><strong>Explore IdeaHunter →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+  <h3 align="center">Builder fit</h3>
+  <p align="center"><strong>Find → Validate → Scope</strong></p>
+  <p>Use <strong>IdeaHunter</strong> before building to compare buyer pain, source evidence, MVP shape, and monetization hypotheses for small software ideas.</p>
+</td>
+</tr>
+
 </table>
 
 <p align="right"><a href="#awesome-ai-tools">Back to top ↑</a></p>
