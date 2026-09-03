@@ -282,6 +282,7 @@ Know a tool that belongs here? [Open an issue](https://github.com/cporter202/awe
 - Why it is better than the obvious alternatives
 - Whether you have used it personally
 
+- [awesome-ai-tools-china](https://github.com/qngsvip/awesome-ai-tools-china) — 569 Chinese AI tools curated directory
 ## ☕ Support the project
 
 <div align="center">
