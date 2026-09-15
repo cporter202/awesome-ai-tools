@@ -46,6 +46,7 @@
 | Generate realistic AI voice | [ElevenLabs](https://try.elevenlabs.io/n64zmcqt1hc7) |
 | Deploy an AI customer-support agent | [Chatbase](https://link.chatbase.co/chris-porter) |
 | Automate business communication | [CallHippo](https://callhippo.com?fp_ref=christopher56) |
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## 📱 Content & Video
 
