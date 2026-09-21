@@ -18,6 +18,7 @@
   <a href="#-monetization--e-commerce">Monetization</a> •
   <a href="#-development--websites">Development</a> •
   <a href="#-automation--data">Automation</a> •
+- [MagicKit](https://magickit.47.80.8.174.nip.io) — **Free AI toolbox** for image generation (FLUX), text and video. No sign-up, no API key. MIT licensed. [Source](https://github.com/kaketiti/magickit)
   <a href="#-trading--market-intelligence">Markets</a> •
   <a href="#-voice--communication">Voice</a>
 </p>
