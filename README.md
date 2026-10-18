@@ -86,6 +86,18 @@
   <p><strong>HeyGen</strong> for presenter-led, translated, or branded AI video.</p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+  <h3 align="center"><a href="https://github.com/abicevoice1-sudo/shortsmash">ShortSmash</a></h3>
+  <p align="center"><a href="https://github.com/abicevoice1-sudo/shortsmash"><img src="https://raw.githubusercontent.com/abicevoice1-sudo/shortsmash/main/assets/social-preview.png" alt="ShortSmash" width="100%"></a></p>
+  <p align="center"><strong>AI shorts · 50-language dubbing · 10-platform publishing</strong></p>
+  <p>Open-source pipeline that turns a prompt into a published short video: AI script, neural dubbing in 50 languages, karaoke captions, and one-click publishing to 10 platforms. MIT licensed.</p>
+  <p><strong>Why it stands out:</strong> A CLIP+Gemini vision gate verifies every clip before it ships — no wrong-footage renders.</p>
+  <p align="center"><a href="https://github.com/abicevoice1-sudo/shortsmash"><strong>Explore ShortSmash →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 <p align="right"><a href="#awesome-ai-tools">Back to top ↑</a></p>
