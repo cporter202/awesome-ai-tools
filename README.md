@@ -63,6 +63,7 @@
 
 ## 📱 Content & Video
 
+- [Ideoy](https://ideoy.ai/) - AI meme video generator — remake this week's memes with one selfie.
 <table>
 <tr>
 <td width="50%" valign="top">
