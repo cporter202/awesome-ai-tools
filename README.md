@@ -298,6 +298,7 @@
 - **[Text-to-Speech API](https://apimesa.com)** - Turn up to 200 characters of text into WAV audio with Resemble AI's open-source Chatterbox model running on CPU. Only clone voices you own or have explicit…
 ## 🧭 How tools earn a spot
 
+- [TokenTracker](https://github.com/xiufengsun/TokenTracker) - Local-first AI token usage & cost tracker for coding tools (Claude Code, Codex, Cursor, and more). Privacy-first: token counts only, never prompts.
 This collection favors tools that:
 
 - Solve a real problem in an active workflow
