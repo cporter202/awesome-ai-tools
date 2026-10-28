@@ -60,7 +60,7 @@
 | Generate realistic AI voice | [ElevenLabs](https://try.elevenlabs.io/n64zmcqt1hc7) |
 | Deploy an AI customer-support agent | [Chatbase](https://link.chatbase.co/chris-porter) |
 | Automate business communication | [CallHippo](https://callhippo.com?fp_ref=christopher56) |
-
+- [Cadence](https://music.rynn.me) — Free browser AI song generator (4 free/day, Keep $1.99).
 ## 📱 Content & Video
 
 <table>
