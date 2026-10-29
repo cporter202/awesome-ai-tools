@@ -144,6 +144,16 @@
   <p>Use <strong>EverBee</strong> to validate demand, <strong>Printify</strong> to fulfill physical products, and <strong>Authflow</strong> to monetize AI-native services.</p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+  <h3 align="center"><a href="https://photoshoot.app/?utm_source=github_cporter202&utm_medium=backlink&utm_campaign=202609_w7_backlinks">Photoshoot</a></h3>
+  <p align="center"><a href="https://photoshoot.app/?utm_source=github_cporter202&utm_medium=backlink&utm_campaign=202609_w7_backlinks"><img src="https://photoshoot.app/og.png" alt="Photoshoot interface" width="100%"></a></p>
+  <p align="center"><strong>AI product photography · Model try-on · Ad creatives</strong></p>
+  <p>Turns a single product photo into studio-grade listing images, lifestyle scenes, and model try-on shots for online sellers.</p>
+  <p><strong>Why it stands out:</strong> It replaces expensive photo shoots with an on-demand web tool.</p>
+  <p align="center"><a href="https://photoshoot.app/?utm_source=github_cporter202&utm_medium=backlink&utm_campaign=202609_w7_backlinks"><strong>Explore Photoshoot →</strong></a></p>
+</td>
+</tr>
 </table>
 
 <p align="right"><a href="#awesome-ai-tools">Back to top ↑</a></p>
