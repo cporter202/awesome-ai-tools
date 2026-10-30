@@ -101,6 +101,9 @@
 </tr>
 </table>
 
+- **[EasySociable](https://easysociable.com/?utm_source=cporter202-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks)** - AI carousel maker that runs inside your coding agent (Claude Code, Cursor, Codex). Free plan.
+
+
 <p align="right"><a href="#awesome-ai-tools">Back to top ↑</a></p>
 
 
