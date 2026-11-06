@@ -347,4 +347,4 @@ All product names and trademarks belong to their respective owners. This reposit
   $10/month · 3,600+ prompts · agent workflows · repo breakdowns · money ideas
 </p>
 <!-- AIWITHCHRIS-BANNER-END -->
-
+- [TranscribeLab](https://transcribelab.pro/) - Bot-free browser meeting recorder and AI transcription workspace for calls, 5-hour audio files, and YouTube channels.
