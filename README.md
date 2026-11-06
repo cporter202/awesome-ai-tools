@@ -108,6 +108,8 @@
 
 - **[Background Remover API](https://apimesa.com)** - Remove the background from any image with the open-source rembg (u2net) model, self-hosted on Cloud Run. Returns a transparent PNG.
 - **[Image Upscaler](https://apimesa.com)** - Upscale a still image to twice its original dimensions. Includes a private job status URL. Charged once on success; terminal failures are refunded. Results…
+- **[Cyanvid](https://cyanvid.com/?utm_source=cporter202-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks)** - AI video generator: create from text or images with clear credit quotes up front.
+- **[Barz Studio](https://barzvideo.com/?utm_source=cporter202-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks)** - Free browser editor for beat-reactive rap lyric videos (bring your own track).
 ## 💰 Monetization & E-commerce
 
 <table>
