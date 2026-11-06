@@ -50,6 +50,9 @@
 |---|---|
 | Create and schedule social content | [ViralWave Studio](https://viralwavestudio.com) or [Postiz](https://postiz.com/?ref=chris34) |
 | Generate polished AI videos | [HeyGen](https://heygen.com/?sid=rewardful&via=chris-porter) |
+| [PromptImage](https://promptimage.cloud) | Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium |
+| [TeslaWraps](https://teslawraps.design) | Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit… |
+| [GrokVideo Studio](https://grokvideogenerator.dev) | Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official … |
 | Monetize a custom GPT | [Authflow](https://authflow.ai) |
 | Research and sell products online | [EverBee](https://www.everbee.io/?via=christopher-porter) or [Printify](https://try.printify.com/mhf23rn5orq2) |
 | Build an app or website with AI | [Lovable](https://lovablelabs.pxf.io/3kzOJd) or [10Web](https://10web.io/?_from=chris35) |
