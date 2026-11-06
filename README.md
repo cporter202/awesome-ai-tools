@@ -57,6 +57,7 @@
 | Extract structured public web data | [CoreClaw](https://coreclaw.com?fpr=chris69&fp_sid=aitools) or [Apify](https://www.apify.com?fpr=p2hrc6) |
 | Monitor websites and feeds | [RSS.app](https://rss.app?fpr=chris90) |
 | Follow a structured morning market workflow | [KamdenAI](https://kamdenai.com/) |
+| Seek disconfirming evidence before an investment thesis | [DisconfirmAI](https://disconfirmai.com/en) |
 | Generate realistic AI voice | [ElevenLabs](https://try.elevenlabs.io/n64zmcqt1hc7) |
 | Deploy an AI customer-support agent | [Chatbase](https://link.chatbase.co/chris-porter) |
 | Automate business communication | [CallHippo](https://callhippo.com?fp_ref=christopher56) |
@@ -244,6 +245,22 @@
   <p align="center"><strong>Research · Signals · User-controlled execution</strong></p>
   <p>KamdenAI is a stock signal and educational-analysis platform, not a broker or auto-trading service. Members remain responsible for deciding whether and how to act on any signal.</p>
   <p><strong>Risk note:</strong> Market signals and sizing examples are not financial advice, and trading can result in losses.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3 align="center"><a href="https://disconfirmai.com/en">DisconfirmAI</a></h3>
+  <p align="center"><a href="https://disconfirmai.com/en"><img src="assets/disconfirmai.png" alt="DisconfirmAI investment research workspace" width="100%"></a></p>
+  <p align="center"><strong>Reading · Research · Disconfirming evidence</strong></p>
+  <p>AI investment research workspace that gathers contrary evidence, filings, and public sources before you treat a thesis as settled.</p>
+  <p><strong>Why it stands out:</strong> It puts disconfirmation first, so conviction comes after the case against the idea has been checked.</p>
+  <p align="center"><a href="https://disconfirmai.com/en"><strong>Explore DisconfirmAI →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+  <h3 align="center">Where it fits</h3>
+  <p align="center"><strong>Thesis work · Source reading · Radar</strong></p>
+  <p>Use it when you need a structured place to read, dig into filings and data, and keep watching for changes that could break the thesis.</p>
+  <p><strong>Note:</strong> Research support only. It is not a broker and does not give personalized investment advice.</p>
 </td>
 </tr>
 </table>
