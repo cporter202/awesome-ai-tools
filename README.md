@@ -56,6 +56,9 @@
 | [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … |
 | [Bad Times AI](https://badtimesai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … |
 | [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … |
+| [KDA Firestarter AI Dance AI Dance Dance](https://kdafirestarterai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … |
+| [A2O LITE NEON AI Dance AI Dance](https://a2oliteai.org) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … |
+| [dime dime baby ai](https://dimedimebabyai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … |
 | Monetize a custom GPT | [Authflow](https://authflow.ai) |
 | Research and sell products online | [EverBee](https://www.everbee.io/?via=christopher-porter) or [Printify](https://try.printify.com/mhf23rn5orq2) |
 | Build an app or website with AI | [Lovable](https://lovablelabs.pxf.io/3kzOJd) or [10Web](https://10web.io/?_from=chris35) |
