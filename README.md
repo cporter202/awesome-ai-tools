@@ -101,6 +101,8 @@
 </tr>
 </table>
 
+- **[AlphaDrama](https://www.getalphadrama.com)** - AI web studio that turns stories into vertical drama series, and product photos into ready-to-post video ads with consistent characters.
+
 <p align="right"><a href="#awesome-ai-tools">Back to top ↑</a></p>
 
 
