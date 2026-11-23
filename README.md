@@ -101,6 +101,8 @@
 </tr>
 </table>
 
+- **[Angry Dance](https://angrydance.com)** - Browser-based single-photo AI dance, pet dance, and viral 9:16 short-form video generator with 40+ one-tap effects, upfront credit pricing, and watermark-free downloads.
+
 <p align="right"><a href="#awesome-ai-tools">Back to top ↑</a></p>
 
 
