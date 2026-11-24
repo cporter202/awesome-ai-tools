@@ -227,6 +227,7 @@
 
 - **[Structured Extract API (small LLM)](https://apimesa.com)** - Pull structured data out of text using your own JSON schema — structured tasks on a small self-hosted model (Qwen3 1.7B). For heavyweight extraction from web…
 - **[Webpage to PDF API](https://apimesa.com)** - Render any public web page as a PDF — receipts, articles, reports, invoices. Results are cached for 24 hours.
+- **[Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp)** — 18 Apify-hosted MCP servers for public data: SAM.gov, Grants.gov, USAspending, EU TED and UK tenders, city council meetings, Ashby/Greenhouse/Lever/SmartRecruiters jobs, company social links, Google Ads Transparency, Etsy sales, sports odds, Spotify play counts.
 ## 📈 Trading & Market Intelligence
 
 <table>
